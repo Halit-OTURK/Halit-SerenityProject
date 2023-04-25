@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Spartan admin get test","GET request with Serenity Assertion way","SUCCESS","2023-04-25T16:21:23.3144533+03:00[Asia/Istanbul]","0.0","22.09"
+"Spartan admin get test","Get all spartan","SUCCESS","2023-04-25T16:21:45.4302935+03:00[Asia/Istanbul]","0.0","2.94"
+"Spartan admin get test","Get one spartan","SUCCESS","2023-04-25T16:21:48.3855895+03:00[Asia/Istanbul]","0.0","0.81"
