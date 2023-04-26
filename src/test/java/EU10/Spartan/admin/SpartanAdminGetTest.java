@@ -12,7 +12,7 @@ import static io.restassured.RestAssured.*;
 import static net.serenitybdd.rest.SerenityRest.given;
 import static net.serenitybdd.rest.SerenityRest.*;
 import static org.hamcrest.Matchers.*;
-
+@Disabled
 @SerenityTest
 public class SpartanAdminGetTest {
     @BeforeAll

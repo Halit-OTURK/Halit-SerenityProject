@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: EU10.Spartan.editor.SpartanEditorPostTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 68.666 s - in EU10.Spartan.editor.SpartanEditorPostTest

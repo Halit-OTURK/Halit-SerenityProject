@@ -1,1 +1,8 @@
+utilities\SpartanNewBase.class
 EU10\Spartan\admin\SpartanAdminGetTest.class
+utilities\ConfigReader.class
+EU10\BookIt\BookItEnvTest.class
+utilities\DBUtils.class
+utilities\SpartanUtil.class
+EU10\Spartan\ConfigDemoTest.class
+EU10\Spartan\editor\SpartanEditorPostTest.class
