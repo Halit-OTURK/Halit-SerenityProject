@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="3" name="EU10.Spartan.editor.SpartanEditorPostTest" skipped="0" tests="11" time="55.47" timestamp="2023-04-26 11:06:37"><testcase classname="EU10.Spartan.editor.SpartanEditorPostTest" name="Editor should be able to POST"/><testcase classname="EU10.Spartan.editor.SpartanEditorPostTest" name="New Spartan 1 - name"/><testcase classname="EU10.Spartan.editor.SpartanEditorPostTest" name="New Spartan 2 - name"><failure message="1 expectation failed.&#10;JSON path data.phone doesn't match.&#10;Expected: is &lt;1207282206L&gt;&#10;  Actual: &lt;1207282206&gt;&#10;" type="java.lang.AssertionError">1 expectation failed.
+JSON path data.phone doesn't match.
+Expected: is &lt;1207282206L&gt;
+  Actual: &lt;1207282206&gt;
+</failure><system-err>1 expectation failed.
+JSON path data.phone doesn't match.
+Expected: is &lt;1207282206L&gt;
+  Actual: &lt;1207282206&gt;
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:687)&#13;
+io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)&#13;
+io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:263)&#13;
+io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:110)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.body(ValidatableResponseOptionsImpl.java:244)&#13;
+EU10.Spartan.editor.SpartanEditorPostTest.lambda$postSpartanWithCSV$14(SpartanEditorPostTest.java:145)&#13;
+net.serenitybdd.rest.Ensure.performCheck(Ensure.java:35)&#13;
+net.serenitybdd.rest.Ensure.that(Ensure.java:23)&#13;
+EU10.Spartan.editor.SpartanEditorPostTest.postSpartanWithCSV(SpartanEditorPostTest.java:144)&#13;
+</system-err></testcase><testcase classname="EU10.Spartan.editor.SpartanEditorPostTest" name="New Spartan 3 - name"/><testcase classname="EU10.Spartan.editor.SpartanEditorPostTest" name="New Spartan 4 - name"/><testcase classname="EU10.Spartan.editor.SpartanEditorPostTest" name="New Spartan 5 - name"/><testcase classname="EU10.Spartan.editor.SpartanEditorPostTest" name="New Spartan 6 - name"/><testcase classname="EU10.Spartan.editor.SpartanEditorPostTest" name="New Spartan 7 - name"><failure message="1 expectation failed.&#10;JSON path data.phone doesn't match.&#10;Expected: is &lt;1791599082L&gt;&#10;  Actual: &lt;1791599082&gt;&#10;" type="java.lang.AssertionError">1 expectation failed.
+JSON path data.phone doesn't match.
+Expected: is &lt;1791599082L&gt;
+  Actual: &lt;1791599082&gt;
+</failure><system-err>1 expectation failed.
+JSON path data.phone doesn't match.
+Expected: is &lt;1791599082L&gt;
+  Actual: &lt;1791599082&gt;
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:687)&#13;
+io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)&#13;
+io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:263)&#13;
+io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:110)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.body(ValidatableResponseOptionsImpl.java:244)&#13;
+EU10.Spartan.editor.SpartanEditorPostTest.lambda$postSpartanWithCSV$14(SpartanEditorPostTest.java:145)&#13;
+net.serenitybdd.rest.Ensure.performCheck(Ensure.java:35)&#13;
+net.serenitybdd.rest.Ensure.that(Ensure.java:23)&#13;
+EU10.Spartan.editor.SpartanEditorPostTest.postSpartanWithCSV(SpartanEditorPostTest.java:144)&#13;
+</system-err></testcase><testcase classname="EU10.Spartan.editor.SpartanEditorPostTest" name="New Spartan 8 - name"><failure message="1 expectation failed.&#10;JSON path data.phone doesn't match.&#10;Expected: is &lt;1936508511L&gt;&#10;  Actual: &lt;1936508511&gt;&#10;" type="java.lang.AssertionError">1 expectation failed.
+JSON path data.phone doesn't match.
+Expected: is &lt;1936508511L&gt;
+  Actual: &lt;1936508511&gt;
+</failure><system-err>1 expectation failed.
+JSON path data.phone doesn't match.
+Expected: is &lt;1936508511L&gt;
+  Actual: &lt;1936508511&gt;
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:687)&#13;
+io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)&#13;
+io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:263)&#13;
+io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:110)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.body(ValidatableResponseOptionsImpl.java:244)&#13;
+EU10.Spartan.editor.SpartanEditorPostTest.lambda$postSpartanWithCSV$14(SpartanEditorPostTest.java:145)&#13;
+net.serenitybdd.rest.Ensure.performCheck(Ensure.java:35)&#13;
+net.serenitybdd.rest.Ensure.that(Ensure.java:23)&#13;
+EU10.Spartan.editor.SpartanEditorPostTest.postSpartanWithCSV(SpartanEditorPostTest.java:144)&#13;
+</system-err></testcase><testcase classname="EU10.Spartan.editor.SpartanEditorPostTest" name="New Spartan 9 - name"/><testcase classname="EU10.Spartan.editor.SpartanEditorPostTest" name="New Spartan 10 - name"/></testsuite>
